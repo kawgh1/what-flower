@@ -1,4 +1,7 @@
 # what-flower
+
+![gif](https://raw.githubusercontent.com/kawgh1/what-flower/main/flower.gif)
+
 Machine Learning App that uses a Flower Recognition Model to tell user what flower a picture is
 
 
